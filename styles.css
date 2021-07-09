@@ -1,0 +1,37 @@
+h1{
+text-align: center;  
+margin-left: -900px;  
+color: white;
+}
+
+
+.inpStudent{
+    background-color: grey;
+    text-emphasis-color: white;
+}
+.Settings{
+    margin-left: -750px;
+}
+.autoplay-controls{
+    margin-left: -750px;
+}
+hr{
+    background-color: white;
+    width: 20%;
+    margin-left: 400px;
+}
+::placeholder{
+    color:white;
+}
+.profile_img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.navbar{
+    background-color: #0d0d0d;
+}
+.confirmSettings{
+    margin-left: 400px;
+}
